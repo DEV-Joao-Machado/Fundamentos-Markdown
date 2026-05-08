@@ -6,7 +6,7 @@ Testes gerais explorando a linguagem de marcação
 
 <br>
 
-|</> .Java|
+|<p style= "color: orange"> Java </p>| 
 |---|
 
 ```java
@@ -48,7 +48,7 @@ Tente também : `console.log()`
 ### Exemplo em C :
 
 
-|</> .C|
+|<p style= "color: blue"> C </p>| 
 |---|
 
 ```C
