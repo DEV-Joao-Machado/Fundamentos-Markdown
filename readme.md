@@ -6,9 +6,10 @@ Testes gerais explorando a linguagem de marcação
 
 <br>
 
-<p style= "color: orange"> Java </p>
 
----
+|Java| 
+|---|
+
 
 ```java
 System.out.println("Hello, world!");
@@ -49,7 +50,8 @@ Tente também : `console.log()`
 ### Exemplo em C :
 
 
-|<p style= "color: blue"> C </p>| 
+
+|C| 
 |---|
 
 ```C
