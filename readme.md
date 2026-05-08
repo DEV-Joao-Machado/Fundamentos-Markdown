@@ -47,9 +47,6 @@ Tente também : `console.log()`
 - [X] Exemplo 2
 - [X] Exemplo 3
 
-### Exemplo em C :
-
-
 
 |C| 
 |---|
