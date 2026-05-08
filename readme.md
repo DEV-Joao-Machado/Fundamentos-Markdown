@@ -6,6 +6,9 @@ Testes gerais explorando a linguagem de marcação
 
 <br>
 
+|</> .Java|
+|---|
+
 ```java
 System.out.println("Hello, world!");
 ```
@@ -43,6 +46,10 @@ Tente também : `console.log()`
 - [X] Exemplo 3
 
 ### Exemplo em C :
+
+
+|</> .C|
+|---|
 
 ```C
 #include <stdio.h>
