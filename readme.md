@@ -6,8 +6,9 @@ Testes gerais explorando a linguagem de marcação
 
 <br>
 
-|<p style= "color: orange"> Java </p>| 
-|---|
+<p style= "color: orange"> Java </p>
+
+---
 
 ```java
 System.out.println("Hello, world!");
